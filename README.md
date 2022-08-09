@@ -1,5 +1,5 @@
-# Curseforge Mirror Template
+# ReEnhancedStackSplit [9.0] Mirror
 
-This is a python script plus Github Action to generate a release every period of time for addons that aren't yet transitioned to Github.
+This is a mirror of rShadowhand's ReEnhancedStackSplit [9.0] 
 
-This specific repo does nothing but acts as a template to build upon!
+- [Curseforge URL](https://www.curseforge.com/wow/addons/reenhancedstacksplit)
